@@ -1,0 +1,443 @@
+# Translation of Themes - Twenty Fourteen in Urdu
+# This file is distributed under the same license as the Themes - Twenty Fourteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-15 05:38:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ur_PK\n"
+"Project-Id-Version: Themes - Twenty Fourteen\n"
+
+#. Description of the plugin/theme
+msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
+msgstr ""
+"2014، ہماری طے شدہ تھیم نےکثیرالھیئتی جدید اور شاندار میگزین نوعیت کی ویب سائیٹ کو ممکن بنایا۔خصوصیت سے سرورق پر اپنے پسندیدہ مواد کا انتخاب بطور گرڈ یا سلائیڈرکریں۔ \n"
+"ویب سائیٹ کی من چاہی ترتیب تین دستیاب ویجٹ حلقوں میں کریں اور اپنے مواد کو مکمل عروض کے سانچے(template)  پر مرتب کریں اور صفحہ ءرضاکار پر مصنفین کے ناموں کا اظہار کریں۔ ورڈپریس پر میگزین نوعیت کی ویب سائیٹ کی تخلیق کھبی آسان نہ تھی۔"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "مکمل چوڑا صفحہ"
+
+#. Template Name of the plugin/theme
+msgid "Contributor Page"
+msgstr "سراکت دار صفحہ"
+
+#: tag.php:22
+msgid "Tag Archives: %s"
+msgstr "ٹیگ کے محفوظات: %s"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "تلاش کے نتائج برائے: %s"
+
+#: inc/widgets.php:290
+msgid "Post format to show:"
+msgstr "پوسٹ دکھانے کا فارمیٹ:"
+
+#: inc/widgets.php:287
+msgid "Number of posts to show:"
+msgstr "پوسٹیں دکھانے کی تعداد:"
+
+#: inc/widgets.php:284
+msgid "Title:"
+msgstr "عنوان:"
+
+#. translators: used with More archives link
+#: inc/widgets.php:235
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/widgets.php:190
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "اس گیلری میں میں <a href=\"%1$s\" rel=\"bookmark\">%2$s تصویر</a>۔"
+msgstr[1] "اس گیلری میں <a href=\"%1$s\" rel=\"bookmark\">%2$s تصاویر</a>۔"
+
+#: inc/widgets.php:151 inc/widgets.php:200
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "<span class=\"meta-nav\">&rarr;</span> پڑھنا جاری رکھیں"
+
+#: inc/widgets.php:102
+msgid "More asides"
+msgstr "مزید سائیڈ بار"
+
+#: inc/widgets.php:101 taxonomy-post_format.php:30
+msgid "Asides"
+msgstr "اطراف"
+
+#: inc/widgets.php:97
+msgid "More galleries"
+msgstr "مزید گیلریز"
+
+#: inc/widgets.php:96 taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr "گیلریز"
+
+#: inc/widgets.php:93
+msgid "More links"
+msgstr "مزید لنکس"
+
+#: inc/widgets.php:92 taxonomy-post_format.php:45
+msgid "Links"
+msgstr "روابط"
+
+#: inc/widgets.php:89
+msgid "More quotes"
+msgstr " مزید حوالے"
+
+#: inc/widgets.php:88 taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr "حوالے"
+
+#: inc/widgets.php:85
+msgid "More audio"
+msgstr "مزید آڈیو"
+
+#: inc/widgets.php:84 taxonomy-post_format.php:39
+msgid "Audio"
+msgstr "آڈیو"
+
+#: inc/widgets.php:81
+msgid "More videos"
+msgstr "مزید ویڈیوز"
+
+#: inc/widgets.php:80 taxonomy-post_format.php:36
+msgid "Videos"
+msgstr "ویڈیوز"
+
+#: inc/widgets.php:77
+msgid "More images"
+msgstr "مزید تصاویر"
+
+#: inc/widgets.php:76 taxonomy-post_format.php:33
+msgid "Images"
+msgstr "تصاویر"
+
+#: inc/widgets.php:36
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "اپنے تازہ ترین اطراف، حوالے، ویڈیو، آڈیو، تصاویر، تصاویری مجموعے اور پوسٹوں کی فہرست دکھانے کے لیے اس ویجٹ کو استعمال کریں۔"
+
+#: inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr "Twenty Fourteen مختصر "
+
+#: inc/template-tags.php:111
+msgid "Sticky"
+msgstr "چسپاں"
+
+#: inc/template-tags.php:94
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">اگلی پوسٹ</span>%title"
+
+#: inc/template-tags.php:93
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">پچھلی پوسٹ</span>%title"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">شائع ہوا</span>%title"
+
+#: inc/template-tags.php:87
+msgid "Post navigation"
+msgstr "پوسٹوں کی نیویگیشن"
+
+#: inc/template-tags.php:60
+msgid "Posts navigation"
+msgstr "پوسٹوں کی نیویگیشن"
+
+#: inc/template-tags.php:52
+msgid "Next &rarr;"
+msgstr "آئندہ"
+
+#: inc/template-tags.php:51
+msgid "&larr; Previous"
+msgstr "&larr; گزشتہ"
+
+#: inc/featured-content.php:417
+msgid "Don&rsquo;t display tag on front end."
+msgstr "کلئے کو سائٹ پر نہ دکھا یا جائے"
+
+#: inc/featured-content.php:410
+msgid "Tag Name"
+msgstr "ٹیگ کا نام"
+
+#: inc/customizer.php:159
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "مکمل رہنمائی اور مزید تجاویز اور ترکیبوں کے لیے ملاحظہ کیجیے <a href=\"%s\">Twenty Fourteen کی دستاویزات</a>۔"
+
+#: inc/customizer.php:158
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "اپنی ویب سائٹ ڈیزائن میں اضافہ کرنے کے لیے پوسٹ میں <a href=\"%s\">نمایاں تصاویر</a> کا استعمال کرتے ہوئے آپ انفرادیت حاصل کر سکتے ہیں (پوسٹ تمبھب نیل کے طور پر بھی جانا جاتا ہے)۔ یہ آپ کو بغیر شامل کردہ آپ کی پوسٹ کے ساتھ ایک تصویر منسلک کی اجازت دیتا ہے۔2014، پوسٹیں اور صفحات & mdash؛ عنوان کے اوپر & mdash؛ اور گھر کے صفحے پر مخصوص مواد کے میدان میں، خاص تصاویر کا استعمال کرتا ہے۔"
+
+#: inc/customizer.php:157
+msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
+msgstr "سرورق نمایاں <a href=\"%1$s\">ٹیگز</a>؛ کی طرف سے کنٹرول ایک گرڈ یا سلائیڈر میں اپنی پسند کے 6 پوسٹوں کو ظاہر کرنے کی سہولت فراہم کرتا ہے، آپ <a href=\"%2$s\">ظاہری شکل اور تخصیص</a> میں ٹیگ اور ترتیب بھی تبدیل کر سکتے ہیں۔ اگر کوئی پوسٹ ٹیگز سے میل نہیں کھاتا ہے تو اس کے بدلے <a href=\"%3$s\">چسپاں پوسٹوں</a> میں دکھایا جائے گا۔"
+
+#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 2.2)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/customizer.php:154
+msgid "Twenty Fourteen"
+msgstr "Twenty Fourteen"
+
+#: inc/customizer.php:84
+msgid "Slider"
+msgstr "سلائیڈر"
+
+#: inc/customizer.php:83
+msgid "Grid"
+msgstr "گرڈ"
+
+#: inc/customizer.php:79
+msgid "Layout"
+msgstr "لےآؤٹ"
+
+#: inc/customizer.php:61 inc/customizer.php:157 inc/featured-content.php:383
+#: inc/featured-content.php:394 inc/featured-content.php:457
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "نمایاں"
+
+#: inc/customizer.php:60 inc/featured-content.php:382
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "اپنی پوسٹوں کو نمایاں بنانے کے لیے <a href=\"%1$s\">ٹیگز</a> کا استعمال کریں۔ اگر کوئی پوسٹ ٹیگ کے مشابہ نہ ہوئی تو <a href=\"%2$s\">چسپاں پوسٹیں</a> دکھائی جائیں گی۔"
+
+#: inc/customizer.php:58 inc/featured-content.php:380
+msgid "Featured Content"
+msgstr "نمایاں مواد"
+
+#: inc/customizer.php:51 inc/customizer.php:52
+msgid "Background may only be visible on wide screens."
+msgstr "پس منظر صرف چوڑی اسکرینز پر نظر آ سکتا ہے۔"
+
+#: inc/customizer.php:48 inc/customizer.php:49
+msgid "May only be visible on wide screens."
+msgstr "صرف چوڑی اسکرینز پر نظر آ سکتا ہے۔ "
+
+#: inc/customizer.php:44
+msgid "Display Site Title &amp; Tagline"
+msgstr "سائٹ کا عنوان اور ٹیگ لائین دکھائیں"
+
+#: inc/customizer.php:41
+msgid "Site Title Color"
+msgstr "سائٹ کے عنوان کا رنگ"
+
+#: inc/back-compat.php:37 inc/back-compat.php:48 inc/back-compat.php:62
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fourteen کو کم از کم WordPress ورژن 3.6 درکار ہے۔ جب کہ آپ ورژن %s پر ہیں ۔ براہ مہربانی اپگریڈ کریں اور دوبارہ کوشش کریں۔"
+
+#: image.php:69
+msgid "Next Image"
+msgstr "اگلی تصویر"
+
+#: image.php:68
+msgid "Previous Image"
+msgstr "پچھلی تصویر"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "چھوڑیں مواد پر جائیں"
+
+#: header.php:52
+msgid "Primary Menu"
+msgstr "بنیادی مینو"
+
+#: header.php:48
+msgid "Search"
+msgstr "تلاش"
+
+#: functions.php:556
+msgid "Page %s"
+msgstr "صفحہ %s"
+
+#: functions.php:437
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "%d مضمون"
+msgstr[1] "%d مضامین"
+
+#: functions.php:291
+msgid "Next"
+msgstr "آگے"
+
+#: functions.php:290
+msgid "Previous"
+msgstr "پیچھے"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:244
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "جاری"
+
+#: functions.php:221
+msgid "Appears in the footer section of the site."
+msgstr "سائٹ کے نچلے حصے پر نظر آئیگا۔"
+
+#: functions.php:219
+msgid "Footer Widget Area"
+msgstr "فوٹر ویجٹ ایریا"
+
+#: functions.php:210
+msgid "Additional sidebar that appears on the right."
+msgstr "اضافی سائیڈ بار جو کہ دائیں طرف نظر آئیگی۔"
+
+#: functions.php:208
+msgid "Content Sidebar"
+msgstr "مواد کی سائیڈ بار"
+
+#: functions.php:199
+msgid "Main sidebar that appears on the left."
+msgstr "مین سائیڈ بار جو کہ بائیں طرف نظر آئیگی۔"
+
+#: functions.php:197
+msgid "Primary Sidebar"
+msgstr "بنیادی سائیڈ بار"
+
+#: functions.php:85
+msgid "Secondary menu in left sidebar"
+msgstr "بائیں سائیڈ بار میں ثانوی مینو "
+
+#: functions.php:84
+msgid "Top primary menu"
+msgstr "اوپر کا بنیادی مینو"
+
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "فخریہ تقویت شدہ از %s"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ایسا لگتا ہے کہ ہم وہ تلاش نہیں کر سکے جسے آپ ڈھونڈ رہے ہیں۔ شاید تلاش مدد کر سکے۔"
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "معاف کیجیے گا، لیکن آپ کی تلاش کردہ اصطلاح سے کچھ نہیں ملا سکا۔ براہ مہربانی کسی اور کی ورڈز سے دوبارہ تلاش کرنے کی کوشش کریں۔"
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آپ اپنی پہلی پوسٹ شائع کرنے لیے تیار ہیں؟ <a href=\"%1$s\">یہاں سے شروع کریں</a>۔"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "کچھ نہیں ملا"
+
+#: content-aside.php:56 content-audio.php:56 content-gallery.php:56
+#: content-image.php:56 content-link.php:56 content-page.php:23
+#: content-quote.php:56 content-video.php:56 content.php:65 image.php:56
+msgid "Pages:"
+msgstr "صفحات:"
+
+#. translators: %s: Name of current post
+#: content-aside.php:49 content-audio.php:49 content-gallery.php:49
+#: content-image.php:49 content-link.php:49 content-quote.php:49
+#: content-video.php:49 content.php:58 inc/template-tags.php:229
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span> پڑھنا جاری رکھیں"
+
+#: content-aside.php:40 content-audio.php:40 content-gallery.php:40
+#: content-image.php:40 content-link.php:40 content-page.php:30
+#: content-quote.php:40 content-video.php:40 content.php:43 image.php:35
+#: page-templates/contributors.php:36
+msgid "Edit"
+msgstr "ترمیم کریں"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:39 inc/widgets.php:223
+msgid "% Comments"
+msgstr "% تبصرے"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:39 inc/widgets.php:223
+msgid "1 Comment"
+msgstr "1 تبصرہ"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:39 inc/widgets.php:223
+msgid "Leave a comment"
+msgstr "تبصرہ کریں"
+
+#: content-aside.php:17 content-audio.php:17 content-featured-post.php:28
+#: content-gallery.php:17 content-image.php:17 content-link.php:17
+#: content-quote.php:17 content-video.php:17 content.php:19
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "،"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "تبصرے بند ہیں۔"
+
+#: comments.php:52 comments.php:72
+msgid "Newer Comments &rarr;"
+msgstr "نئے تبصرے &rarr;"
+
+#: comments.php:51 comments.php:71
+msgid "&larr; Older Comments"
+msgstr "&larr; پرانے تبصرے "
+
+#: comments.php:50 comments.php:70
+msgid "Comment navigation"
+msgstr "تبصروں کی نیویگیشن"
+
+#: category.php:20
+msgid "Category Archives: %s"
+msgstr "زمرہ جات کے محفوظات: %s"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "%s کی تمام پوسٹیں"
+
+#: archive.php:40 taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "محفوظات"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "سالانہ محفوظات : %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "ماہانہ محفوظات: %s"
+
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "یومیہ محفوظات: %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ایسا لگتا ہے کہ اس مقام پر کچھ نہیں ملا۔ شاید تلاش آپ کی مدد کر سکے؟"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "نہیں ملا"
+
+#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 2.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:26
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "WordPress ٹیم"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyfourteen/"
+msgstr "https://wordpress.org/themes/twentyfourteen/"
